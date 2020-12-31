@@ -9,4 +9,5 @@ do
 
 	mkdir $folderName;
 	cp $file $folderName;
+	echo "allthe files are copied and new directory made"
 done
